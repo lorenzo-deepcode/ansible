@@ -122,3 +122,4 @@ See `COPYING <COPYING>`_ to see the full text.
    :alt: Repository License
 
 Newline
+Newline
