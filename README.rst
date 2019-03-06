@@ -120,3 +120,5 @@ See `COPYING <COPYING>`_ to see the full text.
 .. |License| image:: https://img.shields.io/badge/license-GPL%20v3.0-brightgreen.svg
    :target: COPYING
    :alt: Repository License
+
+Newline
